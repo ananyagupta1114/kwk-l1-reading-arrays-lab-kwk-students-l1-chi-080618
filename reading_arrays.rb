@@ -11,7 +11,7 @@ def first_student_by_index
   STUDENT_NAMES[0]
   # Write a solution that returns the first student in the array student_names
 end
-
+puts first_student_by_index
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
