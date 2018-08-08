@@ -46,5 +46,8 @@ def first_second_and_third_students
   STUDENT_NAMES[0..2]
   # Write a solution that returns the first student in the array student_names
 end
-
-  # Write a solution that returns the first, second and third students
+# STUDENT_NAMES[3]
+#   # Write a solution that returns the first student in the array student_names
+# end
+# puts first_second_and_third_students_student_by_index
+#   # Write a solution that returns the first, second and third students
